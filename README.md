@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-The application will run on http://localhost:5000.
+The application will run on http://localhost:5000/ask_query endpoint.
 
 # Sample Queries
 
