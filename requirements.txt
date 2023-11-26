@@ -1,0 +1,8 @@
+langchain
+sentence_transformers
+InstructorEmbedding
+torch
+transformers
+uvicorn
+fastapi
+faiss-gpu
