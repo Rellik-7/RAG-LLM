@@ -2,6 +2,7 @@ langchain
 sentence_transformers
 InstructorEmbedding
 torch
+ctransformers
 transformers
 uvicorn
 fastapi
